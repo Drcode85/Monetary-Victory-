@@ -1,5 +1,17 @@
 [
     {
+        "name": "Impossible",
+        "victoryScreenHeader": "Complete all the crazy task and missions\nto win!",
+        "milestones": [
+            "Add all [spaceship parts] in capital", "Add all [colonizer parts] in capital", "Become the world religion"
+        ],
+        "requiredSpaceshipParts": [
+            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"],
+            "requiredSpaceshipParts": [
+            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster", 
+            ],
+    },
+    {
         "name": "Scientific",
         "victoryScreenHeader": "Complete all the spaceship parts\nto win!",
         "milestones": [
