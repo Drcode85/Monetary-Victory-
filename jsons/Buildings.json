@@ -4,33 +4,37 @@
 		"cost": 15000,
 		"gold": 5,
 		"isNationalWonder": true,
-		"uniques": ["Unbuildable","Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"requiredTech": "Electricity"
+		"uniques": ["Only available <when above [100] [Gold]>", "Unbuildable","Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Capitalized Shareholders",
 		"cost": 20000,
 		"gold": 8,
 		"isNationalWonder": true,
-		"uniques": ["Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"requiredTech": "Plastics"
+		"uniques": ["Only available <if [Intercentralized Multi-Corpation] is constructed>", "Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Cooperative Fund Manipulation",
 		"cost": 30000,
 		"gold": 10,
 		"isNationalWonder": true,
-		"uniques": ["Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"requiredTech": "Computer"
+		"uniques": ["Only available <if [Capitalized Shareholders] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Sufficient Market",
 		"cost": 40000,
 		"gold": 15,
 		"isNationalWonder": true,
-		"uniques": ["Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"requiredTech": "Globalization"
+		"uniques": ["Only available <if [Cooperative Fund Manipulation] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Total Plutocracy",
 		"cost": 50000,
 		"isNationalWonder": true,
-		"uniques": ["Unbuildable","Triggers a Monetary Victory upon completion", "Only available <when [Monetary] Victory is enabled>", "Cannot be hurried"]
+		"uniques": ["Only available <if [Sufficient Market] is constructed>", "Unbuildable","Triggers a Monetary Victory upon completion", "Only available <when [Monetary] Victory is enabled>", "Cannot be hurried"]
 	}
 ]
