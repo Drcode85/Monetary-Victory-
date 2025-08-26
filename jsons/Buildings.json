@@ -1,25 +1,36 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Intercentralized Multi-Corpation",
+		"cost": 15000,
+		"gold": 5,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"uniques": ["Unbuildable","Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Capitalized Shareholders",
+		"cost": 20000,
+		"gold": 8,
+		"isNationalWonder": true,
+		"uniques": ["Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Cooperative Fund Manipulation",
+		"cost": 30000,
+		"gold": 10,
+		"isNationalWonder": true,
+		"uniques": ["Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Sufficient Market",
+		"cost": 40000,
+		"gold": 15,
+		"isNationalWonder": true,
+		"uniques": ["Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Total Plutocracy",
+		"cost": 50000,
+		"isNationalWonder": true,
+		"uniques": ["Unbuildable","Triggers a Monetary Victory upon completion", "Only available <when [Monetary] Victory is enabled>", "Cannot be hurried"]
 	}
 ]
