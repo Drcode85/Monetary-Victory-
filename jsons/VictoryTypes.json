@@ -1,7 +1,7 @@
 [
     {
         "name": "Monetary",
-        "victoryScreenHeader": "Buys all the plans\nto win!",
+        "victoryScreenHeader": "Buys all the plans initiative\nto win!",
         "milestones": [
             "Build [Intercentralized Multi-Corpation]", "Build [Capitalized Shareholders]", "Build [Cooperative Fund Manipulation]", "Build [Sufficient Market]", "Build [Total Plutocracy]"
         ],
