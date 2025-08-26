@@ -1,15 +1,10 @@
 [
     {
-        "name": "Impossible",
-        "victoryScreenHeader": "Complete all the crazy task and missions\nto win!",
+        "name": "Monetary",
+        "victoryScreenHeader": "Buys all the plans\nto win!",
         "milestones": [
-            "Add all [spaceship parts] in capital", "Add all [colonizer parts] in capital", "Become the world religion"
+            "Build [Intercentralized Multi-Corpation]", "Build [Capitalized Shareholders]", "Build [Cooperative Fund Manipulation]", "Build [Sufficient Market]", "Build [Total Plutocracy]"
         ],
-        "requiredSpaceshipParts": [
-            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster"],
-            "requiredSpaceshipParts": [
-            "SS Engine", "SS Stasis Chamber", "SS Cockpit", "SS Booster", "SS Booster", "SS Booster", 
-            ],
     },
     {
         "name": "Scientific",
