@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Intercentralized Multi-Corpation",
-		"cost": 15000,
+		"cost": 0,
 		"gold": 5,
 		"isNationalWonder": true,
 		"requiredTech": "Electricity"
-		"uniques": ["Only available <when above [100] [Gold]>", "Unbuildable","Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"uniques": ["Can be purchased for [15000] [Gold] [in all cities]", "Unbuildable","Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Capitalized Shareholders",
@@ -13,7 +13,7 @@
 		"gold": 8,
 		"isNationalWonder": true,
 		"requiredTech": "Plastics"
-		"uniques": ["Only available <if [Intercentralized Multi-Corpation] is constructed>", "Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"uniques": ["Can be purchased for [20000] [Gold] [in all cities]","Only available <if [Intercentralized Multi-Corpation] is constructed>", "Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Cooperative Fund Manipulation",
@@ -21,7 +21,7 @@
 		"gold": 10,
 		"isNationalWonder": true,
 		"requiredTech": "Computers"
-		"uniques": ["Only available <if [Capitalized Shareholders] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"uniques": ["Can be purchased for [30000] [Gold] [in all cities]","Only available <if [Capitalized Shareholders] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Sufficient Market",
@@ -29,13 +29,13 @@
 		"gold": 15,
 		"isNationalWonder": true,
 		"requiredTech": "Globalization"
-		"uniques": ["Only available <if [Cooperative Fund Manipulation] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
+		"uniques": ["Can be purchased for [40000] [Gold] [in all cities]","Only available <if [Cooperative Fund Manipulation] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Total Plutocracy",
 		"cost": 50000,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Sufficient Market] is constructed>", "Unbuildable","Triggers a Monetary Victory upon completion", "Only available <when [Monetary] Victory is enabled>", "Cannot be hurried"]
+		"uniques": ["Can be purchased for [50000] [Gold] [in all cities]","Only available <if [Sufficient Market] is constructed>", "Unbuildable","Triggers a Monetary Victory upon completion", "Only available <when [Monetary] Victory is enabled>", "Cannot be hurried"]
 	},
 	{
 		"name": "Black Market",
