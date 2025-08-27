@@ -9,7 +9,7 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"promotions": ["Woodsman","Guerrila"],
+		"promotions": ["Guerrila"],
 		"attackSound": "shot"
 	}
 ]
