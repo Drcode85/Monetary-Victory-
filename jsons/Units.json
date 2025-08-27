@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Guerrilla",
+		"name": "Guerrilla Hunter",
 		"uniqueTo": "Rinonia",
 		"unitType": "Gunpowder",
 		"movement": 2,
@@ -9,7 +9,7 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"promotions": ["Woodsman","[Guerrila] ability"],
+		"promotions": ["Woodsman","Guerrila"],
 		"attackSound": "shot"
 	}
 ]
