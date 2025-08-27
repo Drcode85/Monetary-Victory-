@@ -20,7 +20,7 @@
 		"cost": 30000,
 		"gold": 10,
 		"isNationalWonder": true,
-		"requiredTech": "Computer"
+		"requiredTech": "Computers"
 		"uniques": ["Only available <if [Capitalized Shareholders] is constructed>","Unbuildable", "Only available <when [Monetary] Victory is enabled>", "Triggers a global alert upon completion"]
 	},
 	{
