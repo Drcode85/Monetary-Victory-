@@ -11,16 +11,16 @@
 		
 		"declaringWar": "You deemed too unnecessary to exist under my foots.",
 		"attacked": "Very well you want to play like that way!",
-		"defeated": "Is sad we lose but remember even we gone the black society will continue in shadow.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "Is sad we lose but remember even we gone the underworld will continue thrive.",
+		"introduction": "Hello friends my name is Peter McClark, I hope you don't mind us.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "Why hello there...",
+		"hateLetsHearIt": ["..."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
@@ -30,8 +30,8 @@
 		"outerColor": [0,0,0],
 		"innerColor": [40,40,40],
 		"uniqueName": "Black Society",
-		"uniques": ["[+33]% [Gold] <upon being declared war on by [All] Civilizations>", "Gain [250]-[800] [Gold] <upon conquering a city>","[+1 Gold] from every [Luxury resource]"],
-		"cities": ["Saffron","Elok","Khuzaimo","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"uniques": ["[+1 Gold] from every [Luxury resource]","[+33]% [Gold] <upon being declared war on by [All] Civilizations>", "[-25]% enemy spy effectiveness [in all cities]"],
+		"cities": ["Saffron City","Elok","Khuzaimo","Wilzak","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
