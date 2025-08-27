@@ -36,5 +36,17 @@
 		"cost": 50000,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Sufficient Market] is constructed>", "Unbuildable","Triggers a Monetary Victory upon completion", "Only available <when [Monetary] Victory is enabled>", "Cannot be hurried"]
+	},
+	{
+		"name": "Black Market",
+		"replaces": "Market",
+		"uniqueTo": "Rinonia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold, +1 Production] from [Trading Post] tiles [in this city]", "[+2 Gold] from [] tiles [in this city]"],
+		"requiredTech": "Currency"
 	}
 ]
