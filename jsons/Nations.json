@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, this war aren't profitable anyway.",
 		"tradeRequest": "Hello my friends I have great deal, and is not illegal stuff us promise.",
 
-		"outerColor": [0,0,0],
-		"innerColor": [40,40,40],
+		"outerColor": [4,4,4],
+		"innerColor": [93,93,93],
 		"uniqueName": "Black Society",
 		"uniques": ["[+1 Gold] from every [Luxury resource]","[+33]% [Gold] <upon being declared war on by [All] Civilizations>", "[-25]% enemy spy effectiveness [in all cities]"],
 		"cities": ["Saffron City","Elok","Khuzaimo","Wilzak","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
