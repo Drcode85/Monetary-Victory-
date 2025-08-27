@@ -9,9 +9,9 @@
 		"startIntroPart1": "Born from collective illegal groups unite under brutal war and create a nation with unravel ethics and law are obsolete.",
 		"startIntroPart2": "Peter McClark the great Black Merchant will you make thw world fall under you hand and guide your nation with your power and knowledge?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "You deemed too unnecessary to exist under my foots.",
+		"attacked": "Very well you want to play like that way!",
+		"defeated": "Is sad we lose but remember even we gone the black society will continue in shadow.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
@@ -24,13 +24,13 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Very well, this war aren't profitable anyway.",
 		"tradeRequest": "Hello my friends I have great deal, and is not illegal stuff us promise.",
 
 		"outerColor": [0,0,0],
-		"innerColor": [255,200,200],
+		"innerColor": [40,40,40],
 		"uniqueName": "Black Society",
-		"uniques": [""],
+		"uniques": ["",""],
 		"cities": ["Saffron","Elok","Khuzaimo","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
