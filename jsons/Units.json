@@ -3,6 +3,7 @@
 		"name": "Guerrilla Hunter",
 		"uniqueTo": "Rinonia",
 		"unitType": "Gunpowder",
+		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 70,
 		"cost": 375,
