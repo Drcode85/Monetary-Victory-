@@ -30,7 +30,7 @@
 		"outerColor": [4,4,4],
 		"innerColor": [93,93,93],
 		"uniqueName": "Black Society",
-		"uniques": ["[+1 Gold] from every [Luxury resource]","[+33]% [Gold] <upon being declared war on by [All] Civilizations>", "[-25]% enemy spy effectiveness [in all cities]"],
+		"uniques": ["[+1 Gold] from every [Luxury resource]","[+33]% [Gold] <when at war>", "[-25]% enemy spy effectiveness [in all cities]"],
 		"cities": ["Saffron City","Elok","Khuzaimo","Wilzak","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
