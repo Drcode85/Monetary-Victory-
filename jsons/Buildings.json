@@ -45,8 +45,8 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold, +1 Production] from [Trading Post] tiles [in this city]", "[+2 Gold] from [] tiles [in this city]"],
+		"uniques": ["[+1 Gold] from every [Market]",
+			"[+2 Gold, +1 Production] from [Trading post] tiles [in this city]", "[+2 Gold] from [Customs house] tiles [in this city]"],
 		"requiredTech": "Currency"
 	}
 ]
