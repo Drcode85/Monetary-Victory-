@@ -1,6 +1,6 @@
 [
   {
-    "name": "Glory Before Death",
-    "uniques": ["[25]% Strength <when below [50] HP>"]
+    "name": "Guerilla",
+    "uniques": ["No defensive terrain penalty","Earn [50]% of killed [Military] unit's [Cost] as [Gold]"]
   }
 ]
